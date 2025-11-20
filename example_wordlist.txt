@@ -4,7 +4,6 @@ password
 qwerty
 abc123
 password1
-jung
 admin
 letmein
 welcome
